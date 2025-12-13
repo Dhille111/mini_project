@@ -1,0 +1,14 @@
+# requirements.txt
+# Core Python dependencies for this project.
+# NOTE: Install PyTorch separately because its wheel depends on your OS and CUDA.
+# For CPU-only Windows, run:
+#   python -m pip install --upgrade pip
+#   python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# For GPU (example CUDA 11.8), run:
+#   python -m pip install --upgrade pip
+#   python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+Flask>=2.2
+Pillow>=9.0
+torchvision
+tqdm
