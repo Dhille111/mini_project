@@ -127,9 +127,8 @@ Optimizer	Adam (Learning Rate: 0.001)
 
 
 Screenshots
-(<img width="948" height="448" alt="image" src="https://github.com/user-attachments/assets/a3a75b8a-763f-4252-ad2e-1861f2f78069" />
-<img width="872" height="412" alt="image" src="https://github.com/user-attachments/assets/be8f9185-e14d-4bdf-915e-ebfabb6865d2" />
-)
+"C:\Users\user\Pictures\WhatsApp Image 2025-12-18 at 10.43.55 PM.jpeg"
+"C:\Users\user\Pictures\Screenshots\Screenshot 2025-12-22 224437.png"
 
 📂 Directory Structure
 Pneumonia_Detection/
@@ -152,9 +151,9 @@ This software is for educational and research purposes only. It is NOT intended 
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 
-🤝 Contact
-Dhillerao Kotilingala - LinkedIn: Dhillerao Kotilingala
+## 🤝 Contact
+Here are my active profiles:
 
-GitHub: Dhille111
-
-Email: dhilleraokotilingala@gmail.com
+* **LinkedIn:** [Visit My Profile](https://www.linkedin.com/in/kotilingala-dhillerao-519707349/)
+* **GitHub:** [Visit My GitHub](https://github.com/Dhille111)
+* **Email:** dhilleraokotilingala@gmail.com
