@@ -1,4 +1,4 @@
-# 🫁 Pneumonia Detection System (AI-Powered)
+# 🫁 Pneumonia Detection System 
 
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
