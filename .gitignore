@@ -5,7 +5,13 @@ env/
 # Ignore python compiled files
 __pycache__/
 *.pyc
+*.pth
 
 # Ignore large datasets
 chest_xray/
-static/uploads/
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Environment variables
+.env
+.DS_Store
